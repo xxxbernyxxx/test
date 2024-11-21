@@ -30,7 +30,7 @@ $ipConfigOutput = ipconfig | Out-String
 
 # Configuración de parámetros
 $repoOwner = "xxxbernyxxx"  # Reemplaza con tu nombre de usuario en GitHub
-$repoName = "test"        # Reemplaza con el nombre de tu repositorio
+$repoName = "privado"        # Reemplaza con el nombre de tu repositorio
 $token = "g"         # Reemplaza con tu token de acceso personal de GitHub
 
 # Obtener el nombre del equipo y generar una cadena aleatoria para el archivo
